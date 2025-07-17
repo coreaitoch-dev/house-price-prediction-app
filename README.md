@@ -1,2 +1,2 @@
-# house-price-prediction-app
+# House-price-prediction-app
 house price prediction app
